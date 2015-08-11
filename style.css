@@ -1,4 +1,16 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
 .img-circle {
     display: block;
     margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
 }
