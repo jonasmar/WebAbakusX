@@ -20,6 +20,17 @@
 }
 @media screen and (max-width: 420px) {
     .responsive_logo {
-        content: url("image/abakusx_small.png");
+        content: url("image/abakusx_small_g.png");
+        margin-top: 15%;
     }
+}
+.jumbotron {
+    background-image: url("image/bg1.jpg");
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    color: aliceblue;
+}
+.text-bottom {
+    margin-top: 20%;
 }
