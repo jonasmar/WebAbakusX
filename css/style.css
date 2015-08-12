@@ -1,0 +1,36 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding: 0 0 0 0;
+}
+.img-circle {
+    display: block;
+    margin: 0 auto;
+}
+.carousel-control.left,
+.carousel-control.right {
+    background-image: none
+}
+.carousel-inner {
+    width: 90%;
+    margin: auto;
+}
+@media screen and (max-width: 420px) {
+    .responsive_logo {
+        content: url("image/abakusx_small_g.png");
+        margin-top: 15%;
+    }
+}
+.jumbotron {
+    background-image: url("image/bg1.jpg");
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    color: aliceblue;
+}
+.text-bottom {
+    margin-top: 20%;
+}
