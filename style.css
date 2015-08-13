@@ -28,6 +28,9 @@
 .text-bottom {
     margin-top: 20%;
 }
+.navright {
+    float: right;
+}
 @media screen and (max-width: 420px) {
     .responsive_logo {
         content: url("image/abakusx_small_g.png");
@@ -41,5 +44,10 @@
     .col-lg-4 {
         float: left;
         width: 33%;
+    }
+}
+@media (max-width: 768px) {
+    .navright {
+        float: left;
     }
 }
