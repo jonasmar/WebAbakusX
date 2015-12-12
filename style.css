@@ -37,12 +37,6 @@ li {
 .navright {
     float: right;
 }
-@media screen and (max-width: 420px) {
-    .responsive_logo {
-        content: url("image/abakusx_small_g.png");
-        margin-top: 15%;
-    }
-}
 
 /* Portrait tablet to landscape and desktop */
 
